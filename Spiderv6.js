@@ -1036,7 +1036,7 @@ let itsmenu = `
 © 🇻꙲꙲🇮꙲꙲🇳꙲꙲🇴꙲꙲🇷꙲꙲ 🇰꙲꙲🇮꙲꙲🇳꙲꙲🇬꙲꙲ .
   ` 
   deltaxcrash.sendMessage(m.chat, {
-                        video: { url: `https://telegra.ph/file/9c8746c53a590f8ac2666.mp4`},
+                        video: { url: `https://telegra.ph/file/cf3afcbcce4af00774fb8.mp4`},
                         caption: itsmenu,
                         gifPlayback: true
                     }, {
